@@ -3,7 +3,7 @@
   <a href="https://wakatime.com/@5b76a631-86b5-43af-9456-0d9fd43391da" title="Total time coded since May 6 2025"><img src="https://wakatime.com/badge/user/5b76a631-86b5-43af-9456-0d9fd43391da.svg?style=for-the-badge&color=F56C00" alt="Total time coded since May 6 2025" /></a>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=g3nt13m4n&theme=highcontrast&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=g3nt13m4n&theme=highcontrast&background=FFFFFF00&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" />
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
